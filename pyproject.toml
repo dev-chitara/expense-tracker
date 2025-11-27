@@ -1,0 +1,7 @@
+[project]
+name = "expense-tracker"
+version = "0.1.0"
+description = "A real-world backend that helps users track money, categories, budgets, and financial insights."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
